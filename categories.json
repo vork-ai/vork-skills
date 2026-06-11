@@ -1,0 +1,32 @@
+[
+  {
+    "id": "finance",
+    "name": "Finance & Analytics",
+    "description": "Currency conversion, market intelligence data streams, and fiscal calculation utilities."
+  },
+  {
+    "id": "infrastructure",
+    "name": "Cloud & Infrastructure",
+    "description": "SSH connectivity checks, certificate lifecycle checks, and container orchestration tasks."
+  },
+  {
+    "id": "identity",
+    "name": "Identity & Access Control",
+    "description": "Directory syncing, active credential rotation, and user policy audits."
+  },
+  {
+    "id": "utilities",
+    "name": "Core Utilities",
+    "description": "Base64 encoding, string sanitization, text parsing, and regex pattern compilation."
+  },
+  {
+    "id": "communication",
+    "name": "Alerts & Notifications",
+    "description": "Slack webhooks, Discord notifications, email dispatches, and emergency telemetry triggers."
+  },
+  {
+    "id": "developer",
+    "name": "Developer Tools",
+    "description": "Git branch audits, code syntax validation routines, and automated changelog generators."
+  }
+]
