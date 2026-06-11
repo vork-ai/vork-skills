@@ -28,5 +28,10 @@
     "id": "developer",
     "name": "Developer Tools",
     "description": "Git branch audits, code syntax validation routines, and automated changelog generators."
+  },
+  {
+    "id": "misc",
+    "name": "Miscellaneous",
+    "description": "Unclassified or highly specialized tools awaiting community category sorting."
   }
 ]
